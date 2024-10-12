@@ -1,1 +1,1 @@
-This project analyzes a dataset of quarterback statistics from 2014 - 2016 to train a linear regression model.
+This project analyzes a dataset of quarterback statistics from 2014 - 2016 to train a linear regression model. The following link will lead you to the quarterback statistics dataset that is being used in this project. https://www.kaggle.com/datasets/kendallgillies/nflstatistics
